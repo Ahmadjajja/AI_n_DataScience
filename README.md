@@ -53,7 +53,7 @@
 2. **Clone the forked repository:** On your machine, use `git clone <your-forked-repo-url>` to clone your copy.
 3. **Create a new branch:** Use `git checkout -b <branch-name>` to create and switch to a new branch.
 4. **Make changes:** Add your contributions or improvements.
-5. **Commit and push your change:** Use `git add .`, `git commit -m "Your message"`, and `git push origin <branch-name>`.
+5. **Commit and push your changes:** Use `git add .`, `git commit -m "Your message"`, and `git push origin <branch-name>`.
 6. **Create a pull request:** Go to your forked repository on GitHub and click on "New pull request."
 
 Feel free to explore, learn, and contribute!
