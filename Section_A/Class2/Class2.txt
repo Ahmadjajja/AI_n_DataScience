@@ -1,1 +1,36 @@
-Class2...
+There are few things that are most important to start with:
+
+1. LinkedIn Account 
+	i). Create a first linkedin post (Assignment 1)
+
+2. GitHub Account - software engineer profile
+
+3. Target typing speed 100 wpm (typing master, monkeytype) 
+
+4. CGPA most important, so it should be your first priority
+
+______ One year Plan ______
+
+i.  Typing speed 100 wpm
+ii. Write two tech relevent linkedin posts a week
+iii.Must solve 2 to 3 hundred coding leetcode problems
+iv. Learn any tech skills (web/mobile/AI - DataScience - Generative AI)
+v.  International Hackathons
+vi. Teaching Experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
