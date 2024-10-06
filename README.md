@@ -1,6 +1,6 @@
 # AI & Data Science Course
 
-## Year Planning
+## Clear steps to follow
 
 - **CGPA:** To show you are a genuine student.
 - **Typing Speed:** 100+ wpm for writing quickly.
@@ -46,3 +46,14 @@
 ### 8. Cloud Platforms (AWS, Google Cloud, Azure)
 - Introduction to cloud computing
 - Deploying and managing applications on cloud platforms
+
+## How to Contribute
+
+1. **Fork this repository:** Click the "Fork" button at the top-right of this page to create your own copy of this repo.
+2. **Clone the forked repository:** On your machine, use `git clone <your-forked-repo-url>` to clone your copy.
+3. **Create a new branch:** Use `git checkout -b <branch-name>` to create and switch to a new branch.
+4. **Make changes:** Add your contributions or improvements.
+5. **Commit and push your changes:** Use `git add .`, `git commit -m "Your message"`, and `git push origin <branch-name>`.
+6. **Create a pull request:** Go to your forked repository on GitHub and click on "New pull request."
+
+Feel free to explore, learn, and contribute!
