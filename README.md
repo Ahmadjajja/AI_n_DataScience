@@ -5,7 +5,7 @@
 - **CGPA:** To show you are a genuine student.
 - **Typing Speed:** 100+ wpm for writing quickly.
 - **LeetCode:** 200+ problems for strong coding and problem-solving skills.
-- **Regular LinkedIn Writing:** At least 2 posts a week to improve writing skills.
+- **Regular LinkedIn Writing:** At least 2 posts a week to learn in public, improve writing skills and make personal brand.
 - **Learn AI & Data Science Skills:** To get started in the tech field.
 - **Participate in International Hackathons:** For hands-on real-world experience, improving English communication skills, and working under tight deadlines.
 - **Teaching (Optional):** For building confidence, delivering your thought process to an audience, leadership, and better communication.
