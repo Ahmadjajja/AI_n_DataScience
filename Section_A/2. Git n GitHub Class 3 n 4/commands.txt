@@ -25,7 +25,7 @@ Push code to GitHub
 9- Make bundle of your code using
         git commit -m "commit name"
 10- Push code on github
-	git push origin branch-name
+	git push origin main
 
 11- Bring changes to your local repository from GitHub using
        git pull
