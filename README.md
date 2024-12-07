@@ -18,7 +18,7 @@
 
 ### 2. Python Programming
 - Core Python syntax and concepts
-- Object Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 - Writing clean and efficient code
 
 ### 3. FastAPI / Flask Server & Database (Postgres)
