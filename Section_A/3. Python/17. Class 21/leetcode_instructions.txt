@@ -1,0 +1,5 @@
+1. Understand the problem(use pen n paper to understand)
+    - U can break a big problem into smaller problems
+
+2. Once u understand the problem carefully by keeping constraints in mind,
+   then think how to solve it(again use pen n paper to find the solution)
